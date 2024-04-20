@@ -1,0 +1,2 @@
+,name,ticker,class_code,figi,uid,type,min_price_increment,scale,lot,trading_status,api_trade_available_flag,currency,exchange,buy_available_flag,sell_available_flag,short_enabled_flag,klong,kshort
+1854,Сургутнефтегаз,SNGS,TQBR,BBG0047315D0,1ffe1bff-d7b7-4b04-b482-34dc9cc0a4ba,shares,0.00500000,3,100,SECURITY_TRADING_STATUS_NORMAL_TRADING,True,rub,MOEX_EVENING_WEEKEND,True,True,True,2.00000000,2.00000000
